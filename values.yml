@@ -1,0 +1,5 @@
+persistence:
+  defaultClassReplicaCount: 1
+defaultSettings:
+  guaranteedEngineManagerCPU: 0
+  guaranteedReplicaManagerCPU: 0
